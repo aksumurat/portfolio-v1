@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Next-Portfolio</h1>
+    <h1>Portfolio</h1>
     <p>Publish your personal website quickly and for free. Manage your content with Sanity.io.</p>
 </div>
 
@@ -61,4 +61,12 @@ Add a new language to the `locales` array in the `i18n.js` file. Then, create a 
 
 ## Contributing
 
-Contributions to `next-portfolio` are welcome! If you find a bug or have a feature request, please open an issue on GitHub. If you want to contribute code, please fork the repository and create a pull request.
+Contributions to `portfolio` are welcome! If you find a bug or have a feature request, please open an issue on GitHub. If you want to contribute code, please fork the repository and create a pull request.
+
+## Communication
+If you would like to contact me for paid support or any questions, suggestions or feedback:
+
+- 📫 If you want to reach me, you can use the address **murat@murataksu.net.tr**. <br><br>
+
+I hope it will be useful for you 🥰⚡
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aksumurat&data=followers,repositories,stars,commits&theme=nautilus)
